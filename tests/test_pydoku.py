@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from py_doku.src.pydoku import Pydoku
+from py_doku_api.src.pydoku import Pydoku
 from tests import TEST_BOARD
 
 

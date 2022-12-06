@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from py_doku.src.generator import Generator
+from py_doku_api.src.generator import Generator
 from tests import TEST_BOARD
 
 

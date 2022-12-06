@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from py_doku.src.validator import Validator
+from py_doku_api.src.validator import Validator
 from tests import VALID_BOARD, INVALID_BOARD
 
 

@@ -1,6 +1,6 @@
 import numpy as np
-from py_doku.src.pydoku import Pydoku
-from py_doku.src.validator import Validator
+from py_doku_api.src.pydoku import Pydoku
+from py_doku_api.src.validator import Validator
 
 
 class Generator:

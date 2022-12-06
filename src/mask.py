@@ -1,6 +1,6 @@
 from random import random
 import numpy as np
-from py_doku.src.generator import Generator
+from py_doku_api.src.generator import Generator
 
 
 class Mask:
