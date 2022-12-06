@@ -1,5 +1,5 @@
 import pytest
-from py_doku_api.src.mask import Mask
+from src.mask import Mask
 
 
 @pytest.fixture

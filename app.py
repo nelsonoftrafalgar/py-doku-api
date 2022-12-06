@@ -1,6 +1,6 @@
 from flask import Flask, send_from_directory, jsonify, request
 from flask_cors import CORS, cross_origin
-from py_doku_api.src.mask import Mask
+from src.mask import Mask
 
 app = Flask(__name__)
 cors = CORS(app)
